@@ -9,3 +9,4 @@ Repositório criado para a disciplina Linguagens l.
 - Python
 - C
 - Dart
+- Flutter
