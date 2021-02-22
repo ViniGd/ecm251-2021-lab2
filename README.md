@@ -8,3 +8,4 @@ Repositório criado para a disciplina Linguagens l.
 - Java
 - Python
 - C
+- Dart
